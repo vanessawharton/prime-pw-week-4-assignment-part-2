@@ -1,0 +1,50 @@
+.header{
+    text-align: center;
+    border: 1px solid #dddddd;
+    background-color: white;
+    color: purple;
+    font-family: Verdana, Georgia, Helvetica;
+}
+
+body{
+    background-color: #b6aab8;
+    background-image: url("https://www.transparenttextures.com/patterns/concrete-wall-2.png");
+    color: #171717;
+    font-family: Verdana, Georgia, Helvetica;
+    text-align: center
+}    
+
+.header-element{
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    background-color: rgba(0,0,0,0.1)
+}
+
+.header-image{
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    border: 5px solid #dddddd;
+}
+
+.funfact-list{
+    font-family: Arial, Tahoma, san-serif;
+    text-align: left;
+}
+
+footer{
+    text-align: center;
+    font-family: Verdana, Georgia, Helvetica;
+    font size: 8px;
+    border: 1px solid #dddddd;
+    background-color: teal;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: gray;
+}
+
+p{
+    font-style: italic;
+    color: white;
+}
