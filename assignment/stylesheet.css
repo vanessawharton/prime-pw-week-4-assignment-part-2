@@ -13,18 +13,13 @@ body{
     text-align: center
 }    
 
-.header-info{
+.info{
     text-align: center;
     padding: 10px 10px 10px 10px;
     background-color: rgba(0,0,0,0.1)
 }
 
-.header-info{
-    text-align: center;
-    padding: 10px 10px 10px 10px;
-    border: 5px solid #dddddd;
-}
-
 p{
     color: white;
+    padding: 300px;
 }
