@@ -7,18 +7,11 @@ header{
 }
 
 body{
-    background-color: #b6aab8;
-    color: #1c43db;
+    background-color: #a585aa;
+    color: #343539;
     font-family: Verdana, Georgia, Helvetica;
     text-align: center
 }    
-
-info{
-    text-align: center;
-    padding: 10px 10px 10px 10px;
-    background-color: rgba(232, 240, 178, 0.1)
-    color: purple;
-}
 
 p{
     color: white;
