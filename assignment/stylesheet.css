@@ -16,3 +16,13 @@ body{
 p{
     color: white;
 }
+
+h2{
+    background-color: azure;
+    color: darkmagenta;
+}
+
+h3{
+    background-color: azure;
+    color: darkmagenta;
+}
